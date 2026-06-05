@@ -10,6 +10,14 @@ The project explores the sensitivity of Long Short-Term Memory (LSTM) networks t
 
 ---
 
+### Example Forecast
+
+![Real vs Predicted Temperature](image/predicted_vs_actual_temperature.png)
+
+The figure above illustrates the model's ability to capture long-term temperature trends while maintaining a close fit to the observed values.
+
+---
+
 ## Research Question
 
 **How do different LSTM hyperparameters affect forecasting performance in temperature prediction?**
